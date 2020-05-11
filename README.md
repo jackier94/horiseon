@@ -1,44 +1,25 @@
-# 01 HTML CSS Git: Code Refactor
+Horiseon: Getting the Most out of Your Business
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+Horiseon's Focuses on 
+1. Search Engine Optimization
+2. Online Repuation
+3. Social Media Marketing
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+    With Horiseon you can make sure that your business will be visible to those who seek it.
 
-> Always leave the code you are editing a little cleaner than you found it.
+    Horiseon helps you take control of the way you want to be perceived as a business. 
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+    Based on your business, Horiseon can help by poiting you to social media platforms that target your preferred customers. 
+ 
+ Horiseon brings the business to you in turn saving marketing costs and maximizing profits. 
+****************************************************************************
 
-## User Story
+For this assignement I started by adding the alt tags to the images. Then I tried adding some HTML5 elements. I added nav tags for the navigation header but then that kind of messed up things. I then changed the div for the nav in css and that made it look a little better.
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+I looked for the code that made the heart emoji and it was able to render just the same!
 
-## Acceptance Criteria
+I also added more HTML5 elements such as the aside and sections. 
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+I added a clear fix to try to match the aside with the content but that just messed with the blocks in the page. I added a position absolute to the aside and the fixed some of the blocks on the page.
 
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+I think there was more I could have done. I will continue working on this even after submitting it. 
